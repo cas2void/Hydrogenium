@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<client> 
+  <standalone>false</standalone>
+  <fullscreen>false</fullscreen>
+  <fps>60</fps>
+  <network>
+    <host>localhost</host>
+    <port>5000</port>
+    <id>3</id>
+  </network>
+  <global>
+    <width>960</width>
+    <height>720</height>
+  </global>
+  <local>
+    <width>480</width>
+    <height>360</height>
+    <x>0</x>
+    <y>0</y>
+  </local>
+  <window>
+    <x>100</x>
+    <y>420</y>
+  </window>
+</client> 
